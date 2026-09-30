@@ -1,0 +1,18 @@
+{
+  "format": "forier-circle",
+  "version": 1,
+  "circles": [
+    {
+      "radius": 360.0,
+      "speed": 1
+    },
+    {
+      "radius": 150.0,
+      "speed": 3
+    },
+    {
+      "radius": 75.0,
+      "speed": -5
+    }
+  ]
+}
